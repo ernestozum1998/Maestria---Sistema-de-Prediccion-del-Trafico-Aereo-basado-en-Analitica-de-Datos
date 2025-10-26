@@ -1,0 +1,17 @@
+{
+  "stacking": true,
+  "models": {
+    "xgb_6h": {
+      "path": "xgb_6h.json",
+      "best_iteration": 338
+    },
+    "xgb_12h": {
+      "path": "xgb_12h.json",
+      "best_iteration": 104
+    },
+    "xgb_24h": {
+      "path": "xgb_24h_stacked.json",
+      "best_iteration": 956
+    }
+  }
+}
